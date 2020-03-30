@@ -2,7 +2,7 @@
 Mason's curated list of awesome Splunk projects and resources
 
 ### Toc
-- [awesome-splunk-mason](#awesome-splunk-mason)
+- [awesome-splunk](#awesome-splunk)
         - [Toc](#toc)
     - [Community](#community)
     - [Cheat Sheets](#cheat-sheets)
